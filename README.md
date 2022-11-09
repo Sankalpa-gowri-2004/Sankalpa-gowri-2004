@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am a student who has basic knowledge on c and have passion to learn more
+I am a student with knowledge on c and basic c++ and have passion to learn more
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sankalpagowri@gmail.com](mailto:sankalpagowri@gmail.com)
